@@ -14,8 +14,8 @@ about: False # set to False or comment line if you want to remove the "How to us
 
 
 #Profile information
-name: Tao Xu
-tagline: "Assistant Professor"
+name: Yun Zhou
+tagline: "Associate Professor"
 pic: citations.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
@@ -23,10 +23,10 @@ commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis d
 montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
 #sidebar links
-email: daridtao@gmail.com
-phone: "School of Software and Microelectronics"
-website: "Northwestern Polytechnical University"
-github: "127 West Youyi Road, Xi'an 710072, Shaanxi, P.R. China"
+email: chouyun526@gmail.com
+Instatution: "School of Education"
+School: "Shaanxi Normal University"
+#github: "127 West Youyi Road, Xi'an 710072, Shaanxi, P.R. China"
 
 #Update all the sections by editing the files inside _data folder.
 
